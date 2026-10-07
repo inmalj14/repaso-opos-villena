@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Repaso ADL Villena</title>
+  <meta name="description" content="Tarjetas de repaso para la oposición de Agente de Desarrollo Local del Ayuntamiento de Villena.">
+  <meta name="theme-color" content="#0b1d3a">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Repaso ADL">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <button class="icon-btn" id="btnBack" aria-label="Volver" hidden>&#8592;</button>
+    <h1 id="title">Repaso ADL Villena</h1>
+    <div class="wallet">
+      <span class="pill" title="Racha de aciertos">🔥 <b id="streak">0</b></span>
+      <button class="pill pill-gold" id="btnShop" title="Tienda de comodines">★ <b id="points">0</b></button>
+    </div>
+  </header>
+
+  <main id="view"></main>
+
+  <div class="modal" id="modal" hidden>
+    <div class="modal-box" role="dialog" aria-modal="true">
+      <div id="modalBody"></div>
+      <button class="btn" id="modalClose">Cerrar</button>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" hidden></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

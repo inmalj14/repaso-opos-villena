@@ -1,0 +1,60 @@
+1|La Constitución Española de 1978
+2|Estatuto de Autonomía de la Comunitat Valenciana
+3|La organización territorial del Estado
+4|Legalidad, discrecionalidad y potestad reglamentaria
+5|Ley 39-2015 del Procedimiento Administrativo Común
+6|Potestad sancionadora, responsabilidad patrimonial y convenios
+7|Régimen Local. Organización municipal, competencias y servicios
+8|Sesiones, acuerdos y resoluciones de los órganos locales
+9|Contratos del Sector Público
+10|Haciendas Locales y Presupuestos
+11|Ley de igualdad efectiva de mujeres y hombres
+12|Transparencia y Protección de Datos
+13|El desarrollo local y el Agente de Desarrollo Local
+14|Los Ayuntamientos y las iniciativas locales de desarrollo
+15|El plan estratégico municipal de desarrollo local
+16|Las subvenciones en la Administración pública
+17|Gestión, justificación, reintegro y sanciones en subvenciones
+18|La Ley 3-2023 de Empleo
+19|LABORA Servicio Valenciano de Empleo y Formación
+20|Políticas activas de empleo e intermediación laboral
+21|Programas de fomento del empleo y formación de LABORA
+22|Programas mixtos de empleo y formación de LABORA
+23|Cualificaciones, certificados y acreditación de competencias
+24|El Sistema Nacional de Garantía Juvenil y el RD-ley 6-2016
+25|Reforma laboral 2021. Contratos temporales y contrato formativo en alternancia
+26|RD 659-2023 Sistema de FP y prácticas no laborales en empresas
+27|Acuerdos territoriales de empleo y Pacto Territorial del Vinalopó
+28|La persona emprendedora y el fomento de la cultura emprendedora local
+29|Ley 14-2013 de emprendedores y Ley valenciana 2-2012
+30|El proyecto empresarial, constitución de empresas y ecosistema emprendedor
+31|El autoempleo. Obligaciones fiscales y laborales y ayudas al autónomo
+32|Tipología de empresas, economía social y ayudas en la Comunitat Valenciana
+33|Viveros de empresas, hubs, espacios colaborativos, PAE y CIRCE
+34|Nuevos yacimientos de empleo, sectores emergentes e internacionalización
+35|Ley 14-2018 de áreas industriales de la Comunitat Valenciana y EGM
+36|IVACE, Punto de Aceleración a la Inversión y proyectos prioritarios
+37|La Agencia Valenciana de la Innovación y sus ayudas
+38|Ley 28-2022 de startups. Empresas emergentes y acreditación
+39|Mercado laboral, fuentes estadísticas, INE y observatorios
+40|ODS, Estrategia de Desarrollo Sostenible 2030 y Agenda Urbana Villena 2030
+41|Las instituciones de la Unión Europea
+42|Proyectos europeos e instrumentos financieros de la UE
+43|Política de Cohesión 2021-2027, Pacto Verde y Agenda Digital
+44|Estrategia Europa 2020-2030. Crecimiento inteligente, sostenible e integrador
+45|Fondos europeos de gestión compartida, Programa CV, PRTR y EDIL-PAI
+46|Programas europeos de gestión directa
+47|Metodología de proyectos PM2. Organización, funciones y fases
+48|Gestión de proyectos europeos. Identificación de oportunidades, diseño y formulación
+49|Gestión de proyectos europeos. Socios y consorcios, presupuestos elegibles y cofinanciación
+50|Gestión de proyectos europeos. Justificación, auditoría e indicadores de seguimiento
+51|El territorio como activo turístico. Turismo en Villena y planificación turística local
+52|Ley 3-2011 de Comercio CV, PATSECOVA, horarios comerciales y ZGAT
+53|El sector comercial, hostelería y servicios en Villena. CCA y Consejo Local de Comercio
+54|Fomento y dinamización comercial. Tipología de ventas en la Ley de comercio CV
+55|La Red AFIC y ayudas de la Generalitat en comercio minorista y artesanía
+56|Mercados municipales, Reglamento del Mercado Municipal y venta no sedentaria en Villena
+57|La OMIC, derechos de la persona consumidora y hojas de reclamaciones en la CV
+58|La innovación de las ciudades. Smart City, sandbox, agentes de innovación, Red Innpulso y Aulas Mentor
+59|Nuevas tecnologías en el desarrollo local. IA generativa, Big Data y herramientas de innovación
+60|Plan de igualdad municipal y Plan de medidas antifraude de Villena
