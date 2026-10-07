@@ -48,4 +48,5 @@
 {"q":"¿Qué se hace con una incidencia que supera la capacidad del Gestor del Proyecto?","o":["Se escala al Comité Directivo (PSC)","Se ignora","Se archiva","Se traslada al usuario"],"e":"Riesgos e incidencias."},
 {"q":"¿Qué registros mantiene PM² en el seguimiento y control?","o":["Riesgos, incidencias, decisiones y cambios","Solo facturas","Solo asistencia","Solo nóminas"],"e":"Trazabilidad."},
 {"q":"En un proyecto municipal de Villena aplicando PM², ¿quién podría actuar como Gestor del Proyecto (PM)?","o":["El Agente de Desarrollo Local","El Pleno","El Interventor","La empresa adjudicataria siempre"],"e":"Aplicación al puesto de ADL."}
+,{"q":"¿Qué fase sigue a la de Inicio en el ciclo de vida de un proyecto PM²?","o":["Planificación","Ejecución","Cierre","Seguimiento y control"],"e":"Inicio, Planificación, Ejecución y Cierre."}
 ]

@@ -48,4 +48,5 @@
 {"q":"¿Qué ofrece la ventaja logística de Villena para atraer inversión industrial?","o":["Su posición en el eje de la A-31","Su puerto","Su aeropuerto","Su metro"],"e":"Promoción del suelo industrial."},
 {"q":"¿Qué recomiendan las notas sobre la naturaleza de IVACE+i?","o":["Comprobar si es una entidad nueva con ley propia o una marca común de dos entidades","Considerarlo una empresa privada","Considerarlo un órgano estatal","Ignorarlo"],"e":"Cambia la respuesta sobre la naturaleza jurídica."},
 {"q":"¿Qué criterio de calificación valora la contratación de personas de colectivos vulnerables?","o":["Inclusión social","Tecnología e innovación","Desarrollo territorial","Medio ambiente"],"e":"Criterio E."}
+,{"q":"¿Qué tipo de proyectos pueden solicitar la calificación de prioritarios de la Ley 19/2018?","o":["Proyectos de inversión empresarial en la Comunitat Valenciana","Obras públicas municipales","Proyectos culturales sin ánimo de lucro","Proyectos de investigación universitaria"],"e":"Aceleración de la inversión."}
 ]
