@@ -4,7 +4,7 @@
   --card: #f7f4ec;
   --card-ink: #13213a;
   --ink: #eef2fb;
-  --muted: #9fb0cf;
+  --muted: #c4d1ea;
   --gold: #f2c14e;
   --gold-ink: #3a2a00;
   --ok: #2fae66;
@@ -99,9 +99,12 @@ main { max-width: 760px; margin: 0 auto; padding: 16px; }
 .opt {
   display: flex; gap: 10px; align-items: flex-start; text-align: left; width: 100%;
   background: var(--opt); border: 2px solid var(--opt-border); border-radius: 12px;
-  padding: 12px; font-size: .98rem; line-height: 1.3; transition: background .2s, opacity .2s;
+  padding: 12px; font-size: 1rem; line-height: 1.35; font-weight: 500;
+  color: #ffffff; transition: background .2s, opacity .2s;
 }
 .opt .l { font-weight: 800; color: var(--gold); flex: 0 0 auto; }
+.opt.ok, .opt.bad { color: #ffffff; font-weight: 700; }
+.opt.ok .l, .opt.bad .l { color: #ffffff; }
 .opt.gone { opacity: .15; pointer-events: none; }
 .opt.ok { background: var(--ok); border-color: #7be0a5; }
 .opt.bad { background: var(--bad); border-color: #f5a3a0; }

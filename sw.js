@@ -1,5 +1,5 @@
 // Red primero (para recibir siempre preguntas nuevas) y caché como respaldo sin conexión.
-const CACHE = 'repaso-adl-v2';
+const CACHE = 'repaso-adl-v3';
 const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'data/temas.json', 'icons/icon-192.png'];
 
 self.addEventListener('install', (e) => {
